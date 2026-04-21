@@ -4,8 +4,8 @@ This is the completed python-script-runner package.
 
 ## Contents
 - Python executable (.exe)
-- Required libraries
-- 🧠 Core / System
+- avalible libraries:
+  🧠 Core / System
   sys – Python runtime control (args, path, exit)
   os – files, folders, system commands
   platform – system info (Windows/Linux/etc)
@@ -61,7 +61,6 @@ This is the completed python-script-runner package.
   argparse – command line arguments
   typing – type hints
   enum – enums
-- Documentation
 
 ## Installation
 Extract the RAR file and follow the readme.txt files in the folder after extracting.
